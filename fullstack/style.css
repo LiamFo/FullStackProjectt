@@ -1,0 +1,41 @@
+.form-border{
+    border: 2px solid black;
+    width:250px;
+    padding:25px;
+}
+
+.sub-form-border{
+    font-size:15px;
+    font-weight:300px;
+    padding:2px;
+}
+
+.text-font{
+    font-family: monospace;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.big-buttons{
+    font-size:25px;
+    font-weight:300px;
+    padding:5px;
+    
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
